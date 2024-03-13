@@ -1,0 +1,14 @@
+C:\Users\billu\source\repos\problemSolving\problemSolving\bin\Debug\net8.0\problemSolving.exe
+C:\Users\billu\source\repos\problemSolving\problemSolving\bin\Debug\net8.0\problemSolving.deps.json
+C:\Users\billu\source\repos\problemSolving\problemSolving\bin\Debug\net8.0\problemSolving.runtimeconfig.json
+C:\Users\billu\source\repos\problemSolving\problemSolving\bin\Debug\net8.0\problemSolving.dll
+C:\Users\billu\source\repos\problemSolving\problemSolving\bin\Debug\net8.0\problemSolving.pdb
+C:\Users\billu\source\repos\problemSolving\problemSolving\obj\Debug\net8.0\problemSolving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\billu\source\repos\problemSolving\problemSolving\obj\Debug\net8.0\problemSolving.AssemblyInfoInputs.cache
+C:\Users\billu\source\repos\problemSolving\problemSolving\obj\Debug\net8.0\problemSolving.AssemblyInfo.cs
+C:\Users\billu\source\repos\problemSolving\problemSolving\obj\Debug\net8.0\problemSolving.csproj.CoreCompileInputs.cache
+C:\Users\billu\source\repos\problemSolving\problemSolving\obj\Debug\net8.0\problemSolving.dll
+C:\Users\billu\source\repos\problemSolving\problemSolving\obj\Debug\net8.0\refint\problemSolving.dll
+C:\Users\billu\source\repos\problemSolving\problemSolving\obj\Debug\net8.0\problemSolving.pdb
+C:\Users\billu\source\repos\problemSolving\problemSolving\obj\Debug\net8.0\problemSolving.genruntimeconfig.cache
+C:\Users\billu\source\repos\problemSolving\problemSolving\obj\Debug\net8.0\ref\problemSolving.dll
